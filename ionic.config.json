@@ -1,0 +1,9 @@
+{
+  "name": "ionic8-sample-calendar",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    }
+  },
+  "type": "angular"
+}
